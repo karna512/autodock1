@@ -1,0 +1,13 @@
+#python D:\autodock\replace.py -S D:\autodock\rep.csv -s VARB -i config_VARB.txt
+#python D:\autodock\replace.py -S D:\autodock\rep.csv -t "D:\autodock\vina --config config_VARB.txt > res_VARB.txt"
+#python D:\autodock\replace.py -S D:\autodock\rep.csv -t "vina --config config_VARB.txt > res_VARB.txt"
+#python D:\autodock\replace.py -S D:\autodock\rep.csv -t "D:\autodock\vina --config VARZ -d tmp/*txt"
+#python .replace.py -t vina --config VARZ -d "tmp/*txt"
+#D:\autodock\ligain>obabel *.sdf -O *.pdbqt -h -xb
+
+# python .\replace.py -S .\rep.csv -s VARC S DDD FFF -i .\config_VARB.txt
+# python .\replace.py -S .\rep.csv -t "vina --config tmp\config_VARB.txt"
+# python .\replace.py -t "vina --config VARZ" -d "tmp\c*1*txt" 
+# python .\replace.py -t "vina --config VARZ" -d "tmp\*txt"
+
+cat D:\autodock\note.txt

@@ -1,0 +1,14 @@
+receptor = btf.pdbqt
+ligand = Epicatechin.pdbqt
+ligand = Epicatechingallate.pdbqt
+
+center_x = 126.000
+center_y = 126.000
+center_z = 126.000
+ 
+size_x = 120.0
+size_y = 118.0
+size_z = 124.0
+
+num_modes = 9
+

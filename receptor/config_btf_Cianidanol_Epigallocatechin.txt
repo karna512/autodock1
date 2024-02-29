@@ -1,0 +1,15 @@
+receptor = btf.pdbqt
+ligand = Cianidanol.pdbqt
+ligand = Epigallocatechin.pdbqt
+
+center_x = 126.000
+center_y = 126.000
+center_z = 126.000
+ 
+size_x = 120.0
+size_y = 118.0
+size_z = 124.0
+
+out = btf_Cianidanol_Epigallocatechin_out.pdbqt
+
+num_modes = 9
